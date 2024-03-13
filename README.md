@@ -1,4 +1,4 @@
-Hello, I'm Axel, a passionate individual with interests in computer science, art, and old-school hardware. Currently based in [your city/country].
+Hello, I'm Axel, a passionate individual with interests in computer science, art, and old-school hardware.
 
 ## About Me
 
