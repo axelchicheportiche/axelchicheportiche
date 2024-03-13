@@ -16,4 +16,4 @@ Feel free to explore my repositories to discover more about my work.
 
 ## Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/axel-chicheportiche-253135151/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/axel-chicheportiche)
