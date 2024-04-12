@@ -8,7 +8,7 @@ Hello, I'm Axel, a passionate individual with interests in computer science, art
 
 ## Skills
 
-- 💻 Programming Languages & tools: JavaScript, HTML, CSS, PHP, Express, Node.js, Docker, Go, Python, SQL, Bash
+- 💻 Programming Languages & tools: JavaScript, TypeScriptm HTML, CSS, PHP, Express, Node.js, Docker, Python, SQL
 - 🛠️ Technologies: Diverse skill set ranging from front-end to back-end development
 - ⚙️ Former project manager with a unique perspective on problem-solving
 
