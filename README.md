@@ -15,5 +15,5 @@ Hello, I'm Axel, a passionate individual with interests in computer science, art
 Feel free to explore my repositories to discover more about my work.
 
 ## Contact
-
+- 📁 [Portfolio](https://axelchicheportiche.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/axel-chicheportiche)
